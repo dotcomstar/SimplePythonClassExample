@@ -1,0 +1,15 @@
+Starting main()
+
+Hello, my name is Fido
+I am 3 years old.
+I am 21 years old in dog years.
+
+Fido barks.
+Fido's tail is wagging.
+
+Now it is my birthday.
+Happy birthday Fido!
+Now, I am 4 years old.
+And I am 28 years old in dog years.
+
+Finished main()
