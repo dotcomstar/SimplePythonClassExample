@@ -1,4 +1,5 @@
 # SimplePythonClassExample
+## Botball Difficulty: Advanced
 An example of Object-orientation in Python, intended as a teaching-aid for Botball students.
 
 A similar example can be found at https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3.
